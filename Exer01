@@ -1,0 +1,24 @@
+//Isso aqui e um comentario
+
+//Diretiva com o NameSpace System
+using system;
+
+public class HelloWorld
+    
+{       //Acessivel em qualquer lugar
+        public static void Main(string[] args) //parametro
+            
+        {
+            console/Writeline ("Ola, mundo!");
+            
+        }
+        //Acessivel somente dentro da minha class HelloWorld
+}
+
+static void()
+{
+    //Configura o console para apresentar UTF-8
+    Console.OutputEncoding = Enconding.UTF8;
+    
+    //Solicitar o nome do usuario
+}
